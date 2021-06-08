@@ -475,7 +475,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work
         - [Answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **How computers process a program:**
+- [x] **How computers process a program:**
     - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
     - [x] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
     - [x] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
@@ -558,13 +558,13 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] Implement (I did with tail pointer & without):
         - [x] size() - returns number of data elements in list
         - [x] empty() - bool returns true if empty
-        - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
+        - [x] value_at(index) - returns the value of the nth item (starting at 0 for first)
         - [x] push_front(value) - adds an item to the front of the list
-        - [ ] pop_front() - remove front item and return its value
+        - [x] pop_front() - remove front item and return its value
         - [x] push_back(value) - adds an item at the end
         - [ ] pop_back() - removes end item and returns its value
-        - [ ] front() - get value of front item
-        - [ ] back() - get value of end item
+        - [x] front() - get value of front item
+        - [x] back() - get value of end item
         - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
         - [ ] erase(index) - removes node at given index
         - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
